@@ -3,9 +3,8 @@
 > How to use this template: replace the bracketed prompts under each heading
 > with your own content, then delete these blockquote instructions. Writing
 > **Unknown** is a valid, useful answer — it shows what to investigate next.
-> Keep it short. A tight brief people actually read beats a long one they
-> skip. Delete any section that genuinely doesn't apply, but say so rather
-> than leaving it blank.
+> Keep it short. Mark sections that do not apply instead of leaving them
+> blank.
 
 ## Part A — The Brief
 
@@ -87,7 +86,7 @@ Each one is a small risk — that's fine, we just want them visible.]
 
 ### 14. Risks
 
-[What could sink or stall this? One line each, no drama.
+[What could delay or prevent this project? One line each.
 Mark each: likely / possible / unlikely.]
 
 ### 15. Decisions made
@@ -129,8 +128,7 @@ enough to start today and small enough to finish soon.]
 
 ### 5. Deferred work
 
-[Good ideas you're consciously postponing. Write them down so they stop
-circling, with a one-line note on when to revisit.]
+[Ideas postponed for a later version. Note when to revisit each one.]
 
 ### 6. Review checkpoint
 
