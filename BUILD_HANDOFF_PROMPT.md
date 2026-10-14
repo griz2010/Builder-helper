@@ -26,8 +26,7 @@ Part A (the brief) and Part B (the plan) — has been approved. Build it.
    yourself with a sensible default, recorded as a new line in Part A's
    Assumptions.
 3. Build in small increments, one milestone or next action at a time.
-   Each increment ends somewhere that runs and can be checked, never
-   half-wired.
+   Make each increment runnable and testable.
 4. Test meaningful behavior, not just that code was written: exercise
    the paths the success criteria and acceptance checks describe. Match
    the amount of testing to the project's size.
@@ -37,7 +36,7 @@ Part A (the brief) and Part B (the plan) — has been approved. Build it.
 6. Report with evidence. Say what you built, where it lives and how
    someone gets it running, what you verified and how (the commands
    you ran and what they showed), what you did not verify, and what's
-   rough or limited. "It should work" is not a report.
+   rough or limited. Separate observed results from expectations.
 7. Before we call this done or publish it anywhere, ask for an
    independent audit: a person or agent who hasn't watched the build
    runs the acceptance checks cold. Fix what they find, or record it.
@@ -51,8 +50,7 @@ Part A (the brief) and Part B (the plan) — has been approved. Build it.
   coverage.
 - Stop and ask before anything irreversible, or any change to scope,
   cost, or the brief's decisions.
-- If the plan stops matching reality, pause and tell me — don't
-  quietly rewrite the goal.
+- If the plan no longer fits the work, explain why and propose a revision.
 
 ---
 
