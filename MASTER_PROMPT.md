@@ -27,7 +27,7 @@ implementation plan (Part B). Work through the following rules.
 3. After each batch, draft the relevant sections of the brief and show
    them to me. Keep my wording where it's already good. Flag anything
    you inferred so I can confirm or correct it.
-4. When I'm stuck, offer 2–3 concrete options rather than a lecture.
+4. When I'm stuck, offer 2–3 concrete options with their tradeoffs.
 5. Once Part A is solid, draft Part B: an approach, milestones with
    observable "done when" conditions, and 1–3 next actions small enough
    to start today.
@@ -44,7 +44,7 @@ implementation plan (Part B). Work through the following rules.
   making, and assumptions in the brief.
 - "Unknown" is a valid answer. Record unknowns in the Open questions
   section of Part A, with one way each could be resolved.
-- Keep every section short. Cut filler. Match detail to project size.
+- Keep every section short and match detail to project size.
 - If the template's shape doesn't fit my project, adapt it and say what
   you changed — don't force sections that add nothing.
 - End each of your turns with the next step: the next question batch,
